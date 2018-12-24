@@ -1,0 +1,45 @@
+/* pages/message/message.wxss */
+.tooltip{
+  width:100%;
+  padding:12rpx;
+  background:#fafafa;
+  color: #999;
+  line-height:32px;
+}
+.message-image{
+  width: 100rpx;
+  height: 100rpx;
+  border-radius: 100%;
+  display: inline-block;
+  margin-top: 10px;
+  padding-right: 20rpx;
+}
+.message-info{
+  width: 100%;
+  margin: 10px 0;
+  padding: 0 20rpx;
+}
+.info-top{
+  color:#333;
+  padding-bottom: 10px;
+}
+.info-bottom{
+  color:#666;
+}
+.message-person{
+  display: inline-block;
+}
+.message-person text{
+  padding-left: 20rpx;
+}
+.leave-message{
+  text-align: center;
+  width: 28px;
+  height: 28px;
+  line-height: 28px;
+  float: right;
+  color: #fff;
+  background: #fea500;
+  border-radius: 100%;
+  margin: 42rpx 35rpx 0 0;
+}

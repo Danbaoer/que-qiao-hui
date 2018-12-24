@@ -1,0 +1,34 @@
+/* pages/my/redAppliate/service/service.wxss */
+.tel{
+  padding-top: 10px;
+  padding-left: 15rpx;
+  height:30px;
+  line-height: 30px;
+}
+.telNum{
+  height:30px;
+  display: block;
+  width: 95%;
+  margin: 6px auto;
+  border: 1px solid #e2e2e2;
+  border-radius: 6px;
+}
+.submit-suggest{
+  letter-spacing: 2px;
+  color:#666;
+  width: 96%;
+  position: fixed;
+  bottom: 15%;
+  left: 2%;
+}
+.call{
+  display: inline-block;
+  padding: 4px 15px;
+  letter-spacing: 2px;
+  background:#ee99ff;
+  border-radius: 8px;
+  color:#fff;
+  position: fixed;
+  bottom:15px;
+  left: 40vw;
+}

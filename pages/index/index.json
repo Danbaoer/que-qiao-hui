@@ -1,0 +1,52 @@
+{
+  "code": 200,
+  "message": "请求成功",
+  "scrollImages": [
+  "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1532057101&di=18bad0487d94c4a0ca2be9fe13446117&imgtype=jpg&er=1&src=http%3A%2F%2Fi3.img.969g.com%2Fnews%2Fimgx2014%2F05%2F26%2F196_093815_8fc1c.jpg",
+  "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1532057022&di=8cba85a02ad135c9e2cc47a36e8011ab&imgtype=jpg&er=1&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimgad%2Fpic%2Fitem%2F3b292df5e0fe9925151fba433ea85edf8db17196.jpg",
+  "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1532057101&di=18bad0487d94c4a0ca2be9fe13446117&imgtype=jpg&er=1&src=http%3A%2F%2Fi3.img.969g.com%2Fnews%2Fimgx2014%2F05%2F26%2F196_093815_8fc1c.jpg",
+  "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1532057022&di=8cba85a02ad135c9e2cc47a36e8011ab&imgtype=jpg&er=1&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimgad%2Fpic%2Fitem%2F3b292df5e0fe9925151fba433ea85edf8db17196.jpg"
+],
+"vipImages": [
+  {
+    "iconPath": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1532057101&di=18bad0487d94c4a0ca2be9fe13446117&imgtype=jpg&er=1&src=http%3A%2F%2Fi3.img.969g.com%2Fnews%2Fimgx2014%2F05%2F26%2F196_093815_8fc1c.jpg",
+    "authentPath": "../../images/icons/certified.png",
+    "nickname": "JASYON",
+    "sex": "男",
+    "age": "98",
+    "height": "172",
+    "address": "临汾",
+    "education": "大专"
+  },
+  {
+    "iconPath": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1532057022&di=8cba85a02ad135c9e2cc47a36e8011ab&imgtype=jpg&er=1&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimgad%2Fpic%2Fitem%2F3b292df5e0fe9925151fba433ea85edf8db17196.jpg",
+    "authentPath": "../../images/icons/certified.png",
+    "nickname": "ALIY",
+    "sex": "女",
+    "age": "88",
+    "height": "162",
+    "address": "临汾",
+    "education": "大专"
+  },
+  {
+    "iconPath": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1532057022&di=8cba85a02ad135c9e2cc47a36e8011ab&imgtype=jpg&er=1&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimgad%2Fpic%2Fitem%2F3b292df5e0fe9925151fba433ea85edf8db17196.jpg",
+    "authentPath": "../../images/icons/certified.png",
+    "nickname": "JASYON",
+    "sex": "女",
+    "age": "98",
+    "height": "172",
+    "address": "临汾",
+    "education": "大专"
+  },
+  {
+    "iconPath": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1532057022&di=8cba85a02ad135c9e2cc47a36e8011ab&imgtype=jpg&er=1&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimgad%2Fpic%2Fitem%2F3b292df5e0fe9925151fba433ea85edf8db17196.jpg",
+    "authentPath": "../../images/icons/certified.png",
+    "nickname": "JASYON",
+    "sex": "男",
+    "age": "78",
+    "height": "172",
+    "address": "临汾",
+    "education": "本科"
+  }
+]
+}
